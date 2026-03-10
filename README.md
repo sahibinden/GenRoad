@@ -39,6 +39,16 @@ The dataset provides 1,700 high-resolution images ($2048 \times 1024$) based on 
 - **Environmental Styles:** Inpainted (Clear), Snow, Rain, Fog, Night, Dawn.
 - **Annotations:** Full JSON metadata including bounding boxes, class labels, and weather styles.
 
+## 📥 Download Dataset
+
+The GenRoad dataset is provided in three parts for ease of download. Please download all parts and extract them into the same directory to maintain the folder structure.
+
+| Part | Download Link | Size |
+| :--- | :--- | :--- |
+| **Part 1** | [Download part1.zip](https://github.com/sahibinden/GenRoad/raw/refs/heads/main/GenRoad_dataset/part1.zip?download=) | 1.98 GB |
+| **Part 2** | [Download part2.zip](https://github.com/sahibinden/GenRoad/raw/refs/heads/main/GenRoad_dataset/part2.zip?download=) | 1.01 GB |
+| **Part 3** | [Download part3.zip](https://github.com/sahibinden/GenRoad/raw/refs/heads/main/GenRoad_dataset/part3.zip?download=) | 1.58 GB |
+
 
 
 ---
