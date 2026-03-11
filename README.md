@@ -39,6 +39,18 @@ The dataset provides 1,700 high-resolution images ($2048 \times 1024$) based on 
 - **Environmental Styles:** Inpainted (Clear), Snow, Rain, Fog, Night, Dawn.
 - **Annotations:** Full JSON metadata including bounding boxes, class labels, and weather styles.
 
+## 🖼 Dataset Samples
+
+Click on the images to view them in full resolution.
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="dataset_samples/sample_inpainted.png"><img src="dataset_samples/sample_inpainted.png" width="300"></a> | <a href="dataset_samples/sample_rain.png"><img src="dataset_samples/sample_rain.png" width="300"></a> | <a href="dataset_samples/sample_snow.png"><img src="dataset_samples/sample_snow.png" width="300"></a> |
+| **Inpainted** | **Rain** | **Snow** |
+| <a href="dataset_samples/sample_night.png"><img src="dataset_samples/sample_night.png" width="300"></a> | <a href="dataset_samples/sample_fog.png"><img src="dataset_samples/sample_fog.png" width="300"></a> | <a href="dataset_samples/sample_dawn.png"><img src="dataset_samples/sample_dawn.png" width="300"></a> |
+| **Night** | **Fog** | **Dawn** |
+
+
 ## 📥 Download Dataset
 
 The GenRoad dataset is provided in three parts for ease of download. Please download all parts and extract them into the same directory to maintain the folder structure.
